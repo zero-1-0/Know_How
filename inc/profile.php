@@ -32,7 +32,7 @@ Author URI : http://www.wpfreeware.com/
 <!-- Slick slider css file -->
 <link href="css/slick.css" rel="stylesheet"> 
 <!-- Circle counter cdn css file -->
-<link rel='stylesheet prefetch' href='https://cdn.rawgit.com/pguso/jquery-plugin-circliful/master/css/jquery.circliful.css'> 
+<link rel='stylesheet prefetch' href='https://cdn.combinatronics.com/pguso/jquery-plugin-circliful/master/css/jquery.circliful.css'> 
 <!-- smooth animate css file -->
 <link rel="stylesheet" href="css/animate.css"> 
 <!-- preloader -->
@@ -115,7 +115,7 @@ Author URI : http://www.wpfreeware.com/
 <script src="js/jquery.animate-enhanced.min.js"></script>
 <script src="js/jquery.superslides.min.js" type="text/javascript" charset="utf-8"></script> 
 <!-- for circle counter -->
-<script src='https://cdn.rawgit.com/pguso/jquery-plugin-circliful/master/js/jquery.circliful.min.js'></script>
+<script src='https://cdn.combinatronics.com/pguso/jquery-plugin-circliful/master/js/jquery.circliful.min.js'></script>
 <!-- Gallery slider -->
 <script type="text/javascript" language="javascript" src="js/jquery.tosrus.min.all.js"></script> 
 
